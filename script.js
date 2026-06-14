@@ -76,7 +76,7 @@ const animation = lottie.loadAnimation({
 
     autoplay: false,
 
-    path: "gundam.mov.lottie.json"
+    path: "Untitled design.json"
 
 });
 
