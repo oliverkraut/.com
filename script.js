@@ -76,7 +76,7 @@ const animation = lottie.loadAnimation({
 
     autoplay: false,
 
-    path: "Untitleddesign.mp4.lottie.json"
+    path: "123.mp4.lottie.json"
 
 });
 
